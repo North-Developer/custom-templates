@@ -1,0 +1,8 @@
+
+custom-sandbox-template/
+├── src/
+│   ├── sandbox.js       # Core sandbox logic
+│   ├── index.html       # Main HTML file
+│   └── styles.css       # Styling for the UI
+├── README.md            # Project documentation
+└── package.json         # Project metadata and dependencies
